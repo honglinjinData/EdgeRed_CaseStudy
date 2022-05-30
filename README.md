@@ -1,10 +1,10 @@
 # EdgeRed_CaseStudy
-
+## Business Problem
+Payment defaults are detrimental to the business and are a significant cost factor.
 
 # Classification
 
 All test are done on 5-StratifiedKFold Cross Validation
-
 
 ## Decision Tree
 
