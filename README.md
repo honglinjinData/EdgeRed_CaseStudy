@@ -2,6 +2,14 @@
 ## Business Problem
 Payment defaults are detrimental to the business and are a significant cost factor.
 
+
+# Missing figures
+Missing value analysis
+![image](https://user-images.githubusercontent.com/90736298/170982801-ead11d49-7ca6-4643-b8e9-017ee4b57651.png)
+
+![image](https://user-images.githubusercontent.com/90736298/170982836-9c232d83-b0be-455b-a0a1-ee7c58894958.png)
+
+
 # Classification
 
 All test are done on 5-StratifiedKFold Cross Validation
